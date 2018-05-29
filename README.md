@@ -21,7 +21,7 @@ This project is created using Visual Studio 2017 (15.7) and requires Azure Servi
 
 ### Set up the development environment
 
-* Clone the master branch. `git clone https://github.com/ <path to the local folder>`
+* Clone the master branch. `git clone https://github.com/coherentsolutionsinc/issoft-insights-2018-aspnetcore-to-fabric-service <path to the local folder>`
 * Start Service Fabric Local Cluster (Five Node Cluster configuration)
 * Build & Run. `build-and-run.ps1`
 
