@@ -42,7 +42,13 @@ The above listed step will:
 >
 > The base path to `JokesWebService` in Service Fabric Explorer is http://localhost:19080/Explorer/index.html#/apptype/JokesAppType/app/JokesApp/service/JokesApp%252FJokesWebService
 
-* Import jokes from `data` directory
+### Application Usage
+
+There are several `.json` files in `mock-data/` directory that contains demo jokes. Feel free to use application `Import` functionality.
+
+> **Developer's comment:**
+>
+> The application doesn't implement any kind of error handling logic and therefore has a high chance to crash.
 
 ## See Also
 
